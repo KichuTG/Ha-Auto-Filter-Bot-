@@ -83,7 +83,7 @@ I can't find the <b>{}</b> in my database! 🥲
 🗣 Requested by: {message.from_user.mention}
 ©️ Powered by: <b>{message.chat.title}</b>"""
 
-    FILE_CAPTION = """<b>⎙</b><code>{file_name}</code>\n\n<b>〠{file_size}</b>\n\n<b>❤️‍🔥Join: @DramaShip\n✨️Bot: @DramaShip1bot\n\nHave A Nice Day🥰</b>"""
+    FILE_CAPTION = """<b>⎙</b><code>{file_name}</code>\n\n<b>〠{file_size}</b>\n\n<b>❤️‍🔥Join: @DramaShip\n✨️Bot: @DramaShip1bot\n\nHave A Nice Day🥰</b>
 
 🚫 ᴘʟᴇᴀsᴇ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ᴄʟᴏsᴇ ʙᴜᴛᴛᴏɴ ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ sᴇᴇɴ ᴛʜᴇ ᴍᴏᴠɪᴇ 🚫"""
 
